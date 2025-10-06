@@ -39,16 +39,26 @@ git pull origin main
 
 ### 새 브랜치 생성 (브랜치 방식만 필수, fork는 선택)
 ```bash
-git checkout -b feature/기능명
+# 기본 브랜치 생성
+git checkout -b 브랜치명
 # 예: git checkout -b feature/player-jump
+
+# 이슈 번호도 함께 보여주고 싶은 경우
+git checkout -b 타입/이슈번호-기능명
+# 예: git checkout -b feature/123-player-jump
 ```
 
 ## 3. 작업하고 커밋하기
 
 ### 파일 수정 후 커밋
 ```bash
+# 기본 커밋 (add . : 전체 파일 추가 명령어)
 git add .
 git commit -m "feat: 플레이어 점프 기능 추가"
+
+# 이슈에 함께 커밋하고 싶은 경우
+git add .
+git commit -m "feat: 플레이어 점프 기능 추가 #이슈번호"
 ```
 
 ### 브랜치에 푸시
