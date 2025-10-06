@@ -59,11 +59,10 @@ cd part-time-worker
 - 2명 이상의 approve 후 PR 작성자가 직접 머지
 
 ## 👥 팀원
-<!-- 팀원 정보 추가 -->
-- **[김도환]** - [Developer] - [@amophi]
-- **[김태훈]** - [Developer] - [@kimtaehoon0501]
-- **[이용재]** - [Developer] - [@YJ720]
-- **[정은지]** - [Developer] - [@bianbbc87]
+- **김도환** - Developer - [@amophi](https://github.com/amophi)
+- **김태훈** - Developer - [@kimtaehoon0501](https://github.com/kimtaehoon0501)
+- **이용재** - Developer - [@YJ720](https://github.com/YJ720)
+- **정은지** - Developer - [@bianbbc87](https://github.com/bianbbc87)
 
 ## 📄 라이선스 (Todo)
 <!-- 라이선스 정보 추가 -->
