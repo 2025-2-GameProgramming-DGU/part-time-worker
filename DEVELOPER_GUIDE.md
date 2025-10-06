@@ -66,7 +66,10 @@ git commit -m "feat: 플레이어 점프 기능 추가 #이슈번호"
 # Fork 방식
 git push origin 브랜치명
 
-# 브랜치 방식
+# 브랜치 방식 최초 commit
+git push --set-upstream origin 브랜치명
+
+# 브랜치 방식 기본 commit
 git push origin 브랜치명
 ```
 
