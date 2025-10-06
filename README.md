@@ -39,7 +39,7 @@ cd part-time-worker
 ### 협업 가이드
 프로젝트에 기여하기 전에 다음 문서들을 확인해주세요:
 
-- **[GitHub 협업 가이드](GITHUB_GUIDE.md)** - Fork, 브랜치, PR 생성 방법
+- **[개발자 협업 가이드](DEVELOPER_GUIDE.md)** - Fork, 브랜치, PR 생성 방법
 - **[커밋 메시지 컨벤션](COMMIT_CONVENTION.md)** - 일관된 커밋 메시지 작성법
 
 ### 개발 환경 설정
